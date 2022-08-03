@@ -1,0 +1,46 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+body{
+  background-color: aliceblue;
+  padding-top: 1%;
+}
+
+h1{
+    color:#7678c9;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+input,textarea{
+  padding: 15px;
+  border-radius: 15px;
+}
+
+
+.container {
+    width: 300px;
+    border: 15px solid rgb(176, 207, 176);
+    padding: 50px;
+    margin: 20px;
+  }
+
+  button{
+  background-color:blanchedalmond; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  color: black;
+  }
+
+   button:hover {
+    background-color:rgb(134, 128, 200);
+    color: white;
+  } 
